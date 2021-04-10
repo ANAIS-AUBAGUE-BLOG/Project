@@ -1,7 +1,7 @@
 
 
     window.silex = window.silex || {}
-    window.silex.data = {"site":{"width":1010},"pages":[{"id":"page-le-blog-d-ana-s-aubague-","displayName":"Le blog d'Anaïs Aubague ","link":{"linkType":"LinkTypePage","href":"#!page-le-blog-d-ana-s-aubague-"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false}]}
+    window.silex.data = {"site":{"width":1009},"pages":[{"id":"page-le-blog-d-ana-s-aubague-","displayName":"Le blog d'Anaïs Aubague ","link":{"linkType":"LinkTypePage","href":"#!page-le-blog-d-ana-s-aubague-"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false}]}
 
 /*
  * active menu widget for Silex
